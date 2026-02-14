@@ -1,5 +1,7 @@
 # 🐱 vs 🐴 3×3ゲーム
 
+https://doraiso.github.io/cat-horse-tic-tac-toe/
+
 小さな盤面で、  
 🐱と🐴が交互にマスを取り合うだけのゲーム。
 
